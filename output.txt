@@ -1,0 +1,4 @@
+Total Transactions Read: 5214
+Total Numbers Of Transactions : 2668
+Total Fee in the Current Block : 4803570
+Total Weight in the Current Block : 3999936
